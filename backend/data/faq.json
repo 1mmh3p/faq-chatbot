@@ -1,0 +1,234 @@
+[
+    {
+        "question": "Merhaba",
+        "answer": "Merhaba!"
+    },
+    {
+        "question": "Selam",
+        "answer": "Selam!"
+    },
+    {
+        "question": "Günaydın",
+        "answer": "Günaydın!"
+    },
+    {
+        "question": "İyi akşamlar",
+        "answer": "İyi akşamlar!"
+    },
+    {
+        "question": "Hoş geldiniz",
+        "answer": "Hoş bulduk!"
+    },
+    {
+        "question": "Hoş geldin",
+        "answer": "Hoş bulduk!"
+    },
+    {
+        "question": "Nasılsınız",
+        "answer": "İyiyim, teşekkür ederim. Siz nasılsınız?"
+    },
+    {
+        "question": "Ne haber",
+        "answer": "İyi, siz nasılsınız?"
+    },
+    {
+        "question": "nasılsın",
+        "answer": "İyiyim. Sen nasılsın?"
+    },
+    {
+        "question": "Hoşça kal",
+        "answer": "Hoşça kal!"
+    },
+    {
+        "question": "Güle güle",
+        "answer": "Güle güle!"
+    },
+    {
+        "question": "Üniversite adı",
+        "answer": "Siirt Üniversitesi."
+    },
+    {
+        "question": "Hangi şehirde",
+        "answer": "Siirt."
+    },
+    {
+        "question": "Bölümler neler",
+        "answer": "Mühendislik, tıp, eğitim, işletme ve daha fazlası."
+    },
+    {
+        "question": "Eğitim ücretli mi",
+        "answer": "Ücretli ve burslu seçenekler var."
+    },
+    {
+        "question": "Yurt var mı",
+        "answer": "Evet, mevcut."
+    },
+    {
+        "question": "Kayıt nasıl",
+        "answer": "Online veya kampüste."
+    },
+    {
+        "question": "Yabancı öğrenci alıyor mu",
+        "answer": "Evet."
+    },
+    {
+        "question": "Kütüphane var mı",
+        "answer": "Evet, modern bir kütüphane."
+    },
+    {
+        "question": "Staj imkânı var mı",
+        "answer": "Evet, mevcut."
+    },
+    {
+        "question": "Spor tesisleri var mı",
+        "answer": "Evet, birçok spor dalı."
+    },
+    {
+        "question": "Eğitim dili nedir",
+        "answer": "Türkçe ve İngilizce."
+    },
+    {
+        "question": "Ders programı nerede",
+        "answer": "Öğrenci bilgi sisteminde."
+    },
+    {
+        "question": "Öğrenci kulüpleri var mı",
+        "answer": "Evet, birçok kulüp."
+    },
+    {
+        "question": "Sağlık hizmeti var mı",
+        "answer": "Evet, sağlık merkezi mevcut."
+    },
+    {
+        "question": "Mezuniyet töreni ne zaman",
+        "answer": "Haziran."
+    },
+    {
+        "question": "Çift anadal var mı",
+        "answer": "Evet, mevcut."
+    },
+    {
+        "question": "Akademik takvim nerede",
+        "answer": "Web sitesinde."
+    },
+    {
+        "question": "Üniversiteye nasıl ulaşırım",
+        "answer": "Toplu taşıma veya özel araç."
+    },
+    {
+        "question": "Yemekhanede ne var",
+        "answer": "Çeşitli günlük yemekler."
+    },
+    {
+        "question": "Öğrenci işleri nerede",
+        "answer": "Kampüs merkezinde."
+    },
+    {
+        "question": "Hangi burslar var",
+        "answer": "Başarı ve ihtiyaç bursları."
+    },
+    {
+        "question": "Diploma ne zaman alınır",
+        "answer": "Mezuniyetten sonra."
+    },
+    {
+        "question": "Yaz okulu var mı",
+        "answer": "Evet, açılıyor."
+    },
+    {
+        "question": "Ders seçimi nasıl yapılır",
+        "answer": "Online sistemden."
+    },
+    {
+        "question": "Kampüs nerede",
+        "answer": "Siirt merkezinde."
+    },
+    {
+        "question": "Staj zorunlu mu",
+        "answer": "Evet, bazı bölümlerde."
+    },
+    {
+        "question": "Öğrenci kartı nasıl alınır",
+        "answer": "Başvuru yaparak."
+    },
+    {
+        "question": "Yurtta yemek var mı",
+        "answer": "Evet, var."
+    },
+    {
+        "question": "Kayıt yenileme nasıl",
+        "answer": "Online yapılır."
+    },
+    {
+        "question": "Hangi etkinlikler var",
+        "answer": "Spor, sanat, seminerler."
+    },
+    {
+        "question": "Kampüs güvenliği nasıl",
+        "answer": "24 saat güvenlik var."
+    },
+    {
+        "question": "Laboratuvarlar açık mı",
+        "answer": "Evet, belirli saatlerde."
+    },
+    {
+        "question": "Yaz stajı var mı",
+        "answer": "Evet, mevcut."
+    },
+    {
+        "question": "Öğrenci danışmanlığı var mı",
+        "answer": "Evet, ücretsiz danışmanlık."
+    },
+    {
+        "question": "Online eğitim var mı",
+        "answer": "Evet, bazı dersler online."
+    },
+    {
+        "question": "Kulüp üyeliği nasıl yapılır",
+        "answer": "Başvuru ile."
+    },
+    {
+        "question": "Eğitim dili",
+        "answer": "Üniversitemizdeki eğitim dili genellikle Türkçe olup, bazı bölümler ve programlar, özellikle İngilizce hazırlık sınıfları ve yüksek lisans programları, İngilizce olarak sunulmaktadır."
+    },
+    {
+        "question": "Başvuru nasıl yapılır",
+        "answer": "Yabancı öğrencilerin başvurusu için üniversitenin web sitesi üzerinden online başvuru yapılması gerekmektedir."
+    },
+    {
+        "question": "Türkçe kursu var mı",
+        "answer": "Evet, üniversitemizde yabancı öğrencilere yönelik Türkçe dil kursları düzenlenmektedir."
+    },
+    {
+        "question": "Burs başvurusu nasıl",
+        "answer": "Üniversitemizde çeşitli burs olanakları mevcuttur. Başvurular web sitesinden yapılır."
+    },
+    {
+        "question": "Barınma imkanları",
+        "answer": "Üniversitemizde öğrencilere yönelik yurtlar bulunmaktadır."
+    },
+    {
+        "question": "Çalışma izni var mı",
+        "answer": "Uluslararası öğrenciler belirli şartlarla çalışabilirler."
+    },
+    {
+        "question": "Sosyal etkinlikler",
+        "answer": "Üniversite, öğrencilere sosyal etkinlikler konusunda geniş imkanlar sunmaktadır."
+    },
+    
+    {
+        "question": "Kütüphane kullanım",
+        "answer": "Üniversite kütüphanesi, öğrencilere geniş kaynak ve çalışma alanları sunar."
+    },
+    {
+        "question": "Siirt Üniversitesi",
+        "answer": {
+            "text": "Siirt Üniversitesi, 2007 yılında Siirt'te kurulan devlet üniversitesidir. Üniversite, bölgenin ihtiyaçlarına yönelik eğitim ve araştırma faaliyetleri yürütmektedir.",
+            "image": "https://www.siirt.edu.tr/images/logo.png",
+            "social": {
+                "Vikipedi": "https://tr.wikipedia.org/wiki/Siirt_%C3%9Cniversitesi",
+                "Siirt_Üniversitesi": "https://www.siirt.edu.tr/"
+            }
+        }
+    }
+]
